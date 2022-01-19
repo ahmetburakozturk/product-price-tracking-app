@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="screens\Accessories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="screens\Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="screens\Batterys.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="screens\Charges.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="screens\Covers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="screens\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="screens\Headphones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="screens\ScreenProtectors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="screens\Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,60 @@
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\bin\Debug\net5.0-windows\UITry.exe
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\bin\Debug\net5.0-windows\UITry.deps.json
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\bin\Debug\net5.0-windows\UITry.runtimeconfig.json
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\bin\Debug\net5.0-windows\UITry.runtimeconfig.dev.json
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\bin\Debug\net5.0-windows\UITry.dll
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\bin\Debug\net5.0-windows\ref\UITry.dll
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\bin\Debug\net5.0-windows\UITry.pdb
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.csproj.AssemblyReference.cache
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.Form1.resources
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.Properties.Resources.resources
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.csproj.GenerateResource.cache
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.AssemblyInfoInputs.cache
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.AssemblyInfo.cs
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.csproj.CoreCompileInputs.cache
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.dll
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\obj\Debug\net5.0-windows\ref\UITry.dll
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.pdb
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.genruntimeconfig.cache
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.ScreenProtectors.resources
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.Kılıflar.resources
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.Aksesuarlar.resources
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.Ekle.resources
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.Bataryalar.resources
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.Şarjlar.resources
+C:\Users\RAST TEKNOLOJİ\Source\Repos\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.Kulaklıklar.resources
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\bin\Debug\net5.0-windows\UITry.exe
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\bin\Debug\net5.0-windows\UITry.deps.json
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\bin\Debug\net5.0-windows\UITry.runtimeconfig.json
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\bin\Debug\net5.0-windows\UITry.runtimeconfig.dev.json
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\bin\Debug\net5.0-windows\UITry.dll
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\bin\Debug\net5.0-windows\ref\UITry.dll
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\bin\Debug\net5.0-windows\UITry.pdb
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.csproj.AssemblyReference.cache
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.Bataryalar.resources
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.Şarjlar.resources
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.Kılıflar.resources
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.Form1.resources
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.Kulaklıklar.resources
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.Properties.Resources.resources
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.csproj.GenerateResource.cache
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.AssemblyInfoInputs.cache
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.AssemblyInfo.cs
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.csproj.CoreCompileInputs.cache
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.dll
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\ref\UITry.dll
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.pdb
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.genruntimeconfig.cache
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.Ekleme.resources
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.Koruyucular.resources
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.Ayarlar.resources
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.Aksesuarlar.resources
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rast\Desktop\ahmet\CSharpCourse\UITry\obj\Debug\net5.0-windows\UITry.csproj.CopyComplete
