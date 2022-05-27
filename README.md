@@ -1,6 +1,6 @@
 # product-price-tracking-app
  
- This application records product buying and selling prices.
+ This application records product buying and selling prices & stocks.
  
  I made this app for my Dad's shop.
  
